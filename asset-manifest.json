@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/netfilx-app/static/css/main.e2b7a1ca.css",
+    "main.js": "/netfilx-app/static/js/main.5dfa08a9.js",
+    "static/js/787.a3118e53.chunk.js": "/netfilx-app/static/js/787.a3118e53.chunk.js",
+    "static/media/Logo.png": "/netfilx-app/static/media/Logo.7478220ea69f245c00df.png",
+    "index.html": "/netfilx-app/index.html",
+    "main.e2b7a1ca.css.map": "/netfilx-app/static/css/main.e2b7a1ca.css.map",
+    "main.5dfa08a9.js.map": "/netfilx-app/static/js/main.5dfa08a9.js.map",
+    "787.a3118e53.chunk.js.map": "/netfilx-app/static/js/787.a3118e53.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2b7a1ca.css",
+    "static/js/main.5dfa08a9.js"
+  ]
+}
