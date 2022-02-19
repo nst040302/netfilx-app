@@ -1,0 +1,51 @@
+.row{
+    position: relative;
+    width: 100%;
+    padding: 0 0 0 60px;
+}
+.row__title{
+    font-size: 21px;
+    color: #ffffff;
+    cursor: pointer;
+    padding: 12px 0;
+}
+.row__post{
+    position: relative;
+    display: flex;
+    width: max-content;
+    align-items: center;
+    padding-bottom: 30px;
+    transition: .3s linear;
+}
+
+/*=================================================================================================*/
+.row__title__icon{
+    position: relative;
+    top: 7px;
+}
+.row__title__moretext{
+    position: relative;
+    top: 2px;
+    margin-left: 16px;
+    font-size: 14px;
+}
+.row__post__btn__left{
+    position: absolute;
+    height: 120px;
+    font-size: 32px;
+    background-color: rgba(233, 219, 219, 0.2);
+    color: rgb(216, 212, 212);
+    cursor: pointer;
+    z-index: 1;
+}
+.row__post__btn__right{
+    position: absolute;
+    top: 55px;
+    right: 0;
+    height: 120px;
+    font-size: 32px;
+    background-color: rgba(233, 219, 219, 0.2);
+    color: rgb(216, 212, 212);
+    cursor: pointer;
+    z-index: 1;
+}
